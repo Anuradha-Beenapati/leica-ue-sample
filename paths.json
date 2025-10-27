@@ -1,5 +1,10 @@
 {
-  "mappings": [
+ "mappings": [
     "/content/leica-ue-sample/:/",
+    "/content/leica-ue-sample/configuration:/.helix/config.json",
+    "/content/leica-ue-sample/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/leica-ue-sample/"
   ]
 }
