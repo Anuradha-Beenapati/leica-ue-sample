@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/Anuradha-Beenapati/leica-ue-sample/main"
+    url: "https://author-p24152-e1275188.adobeaemcloud.com/bin/franklin.delivery/Anuradha-Beenapati/leica-ue-sample/main"
     type: "markup"
     suffix: ".html"
     
